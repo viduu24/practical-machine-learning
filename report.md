@@ -1,7 +1,7 @@
 ---
 title: "Practical Machine Learning - Final Project"
-author: "Bowen Zhang"
-date: "6/17/2020"
+author: "Vidushi"
+date: "5/10/2024"
 output: 
         html_document:
          keep_md: yes
